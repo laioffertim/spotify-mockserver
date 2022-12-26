@@ -18,8 +18,7 @@
                "year": "2006",
                "cover": "https://upload.wikimedia.org/wikipedia/en/d/d1/Stillfantasy.jpg",
                "artists": "Jay Chou",
-               "link": "https://en.wikipedia.org/wiki/Still_Fantasy",
-               "genre": "Pop"
+               "link": "https://en.wikipedia.org/wiki/Still_Fantasy"
             },
             {
                "id": 3,
@@ -27,8 +26,7 @@
                "year": "1991",
                "cover": "https://upload.wikimedia.org/wikipedia/en/1/11/Michaeljacksondangerous.jpg",
                "artists": "Michale Jackson",
-               "link": "https://en.wikipedia.org/wiki/Dangerous_(Michael_Jackson_album)",
-               "genre": "Pop"
+               "link": "https://en.wikipedia.org/wiki/Dangerous_(Michael_Jackson_album)"
             },
             {
                "id": 4,
@@ -36,8 +34,7 @@
                "year": "2001",
                "cover": "https://upload.wikimedia.org/wikipedia/en/a/ae/Stefanie_sun_kite.jpg",
                "artists": "Stefanie Sun",
-               "link": "https://en.wikipedia.org/wiki/Kite_(Stefanie_Sun_album)",
-               "genre": "Pop"
+               "link": "https://en.wikipedia.org/wiki/Kite_(Stefanie_Sun_album)"
             }
          ]
       },
@@ -50,8 +47,7 @@
                "year": "2005",
                "cover": "https://upload.wikimedia.org/wikipedia/en/9/9b/No89757.jpg",
                "artists": "JJ Lin",
-               "link": "https://en.wikipedia.org/wiki/No._89757",
-               "genre": "Pop"
+               "link": "https://en.wikipedia.org/wiki/No._89757"
             },
             {
                "id": 2,
@@ -59,8 +55,7 @@
                "year": "2006",
                "cover": "https://upload.wikimedia.org/wikipedia/en/d/d1/Stillfantasy.jpg",
                "artists": "Jay Chou",
-               "link": "https://en.wikipedia.org/wiki/Still_Fantasy",
-               "genre": "Pop"
+               "link": "https://en.wikipedia.org/wiki/Still_Fantasy"
             },
             {
                "id": 1,
@@ -68,8 +63,7 @@
                "year": "2008",
                "cover": "https://upload.wikimedia.org/wikipedia/en/6/6d/Leessang-Hexagonal_%28cover%29.jpg",
                "artists": "Lesssang",
-               "link": "https://en.wikipedia.org/wiki/Hexagonal_(album)",
-               "genre": "Pop"
+               "link": "https://en.wikipedia.org/wiki/Hexagonal_(album)"
             }
          ]
       },
@@ -82,8 +76,7 @@
                "year": "2018",
                "cover": "https://upload.wikimedia.org/wikipedia/commons/3/33/Black_Pink_Black_In_Your_Area_Digital_Cover.jpg",
                "artists": "Blackpink",
-               "link": "https://en.wikipedia.org/wiki/Blackpink_in_Your_Area",
-               "genre": "Pop"
+               "link": "https://en.wikipedia.org/wiki/Blackpink_in_Your_Area"
             },
             {
                "id": 7,
@@ -92,7 +85,6 @@
                "cover": "https://upload.wikimedia.org/wikipedia/en/8/86/%28G%29I-dle_-_Nxde_Steve_Aoki_Remix.jpeg",
                "artists": "Nxde",
                "link": "https://en.wikipedia.org/wiki/Nxde",
-               "genre": "Pop"
             },
             {
                "id": 1,
@@ -100,8 +92,7 @@
                "year": "2008",
                "cover": "https://upload.wikimedia.org/wikipedia/en/6/6d/Leessang-Hexagonal_%28cover%29.jpg",
                "artists": "Lesssang",
-               "link": "https://en.wikipedia.org/wiki/Hexagonal_(album)",
-               "genre": "Pop"
+               "link": "https://en.wikipedia.org/wiki/Hexagonal_(album)"
             }
          ]
       }
